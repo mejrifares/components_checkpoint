@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/338050/a4e28c7bede4b58bf8671101e815f7a9b1607e7a.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.App2{
+  background-color: black;
+  opacity: 60%;
+}
+.styling{
+    color: #fff;
+    font-size: 2rem;
+}
